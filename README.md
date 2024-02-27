@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pkab
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning FrontEnd Development
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning CyberSecurity
 - 📫 How to reach me ...
 
 <!---
